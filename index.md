@@ -20,7 +20,8 @@ University of Utah<br>
 [Resume](#cv)
 
 *I am currently a Master's student at the University Of Utah. My research interests are in large scale storage and Distributed Systems.
-I'm passionate about building storage systems that leverage newer network fabrics such as Infiniband/RDMA.*
+I'm passionate about building storage systems that leverage newer network fabrics such as Infiniband/RDMA.
+I'm doing a summer internship at LinkedIn with their Site Reliability Engineering team.*
 
 
 # <a name="advisors"></a> Research advisors
