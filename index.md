@@ -26,7 +26,7 @@ I'm also doing an internship at LinkedIn with their Site Reliability Engineering
 
 # <a name="advisors"></a> Research advisors
 - [Prof. Ryan Stutsman](http://rstutsman.github.io/), who had previously built phenomenal systems
-such as [RAMCloud](http://ramcloud.stanford.edu/) and [Deuteronomy](http://research.microsoft.com/en-us/projects/deuteronomy/)
+such as [RAMCloud](http://ramcloud.stanford.edu/) and [Deuteronomy](https://www.microsoft.com/en-us/research/publication/high-performance-transactions-in-deuteronomy/)
 - [Prof. Robert Ricci](http://www.flux.utah.edu/users/ricci/), who is credited with some of the best known network research test beds such as [APT](https://www.aptlab.net/), [Cloudlab](https://www.cloudlab.us) and [Emulab](http://emulab.net/).
 
 # <a name="workex"></a> Work Experience
