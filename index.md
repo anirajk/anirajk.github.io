@@ -19,7 +19,7 @@ University of Utah<br>
 [Advisors](#advisors) - 
 [Resume](#cv)
 
-*I'm currently looking for full time opportunities with a start date of July 2017*
+*I'm currently looking for full time opportunities with a start date around on or after July 2017.*
 
 I am a Master's student at the University Of Utah. My research interests are in large scale storage and Distributed Systems.
 I'm passionate about building storage systems that leverage newer network fabrics such as Infiniband/RDMA. My current research focuses on optimizing data layouts to extract the best out of state of the art NICs.
