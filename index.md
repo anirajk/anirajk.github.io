@@ -21,9 +21,9 @@ University of Utah<br>
 
 *I'm currently looking for full time opportunities with a start date of July 2017*
 
-**I am a Master's student at the University Of Utah. My research interests are in large scale storage and Distributed Systems.
+I am a Master's student at the University Of Utah. My research interests are in large scale storage and Distributed Systems.
 I'm passionate about building storage systems that leverage newer network fabrics such as Infiniband/RDMA. My current research focuses on optimizing data layouts to extract the best out of state of the art NICs.
-I'm also doing an internship at LinkedIn with their Site Reliability Engineering team. I'm working in the monitoring infrastructure team developing auto remediation solutions for the infrastructure using saltstack and internal development tools.**
+I'm also doing an internship at LinkedIn with their Site Reliability Engineering team. I'm working in the monitoring infrastructure team developing auto remediation solutions for the infrastructure using saltstack and internal development tools.
 
 
 # <a name="advisors"></a> Research advisors
