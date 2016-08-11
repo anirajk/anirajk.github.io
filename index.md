@@ -16,14 +16,15 @@ University of Utah<br>
 <p></p>
 
 [Experience](#workex) -
-[Advisors](#advisors) - 
+[Advisors](#advisors) -
+[Publications](#publications) - 
 [Resume](#cv)
 
 *I'm currently looking for full time opportunities with a start date around on or after July 2017.*
 
-I am a Master's student at the University Of Utah. My research interests are in large scale storage and Distributed Systems.
+I am a Master's student at the University Of Utah. My research interests are in data center storage and Distributed Systems.
 I'm passionate about building storage systems that leverage newer network fabrics such as Infiniband/RDMA. My current research focuses on optimizing data layouts to extract the best out of state of the art NICs.
-I'm also doing an internship at LinkedIn with their Site Reliability Engineering team. I'm working in the monitoring infrastructure team developing auto remediation solutions for the infrastructure using saltstack and internal development tools.
+I've interned in the summer of 2016 with LinkedIn. I was working for the monitoring infrastructure team developing auto remediation solutions for the infrastructure using saltstack and in-house frameworks.
 
 
 # <a name="advisors"></a> Research advisors
@@ -33,9 +34,18 @@ such as [RAMCloud](http://ramcloud.stanford.edu/) and [Deuteronomy](https://www.
 
 # <a name="workex"></a> Work Experience
 I am working as a Research Assistant in the [Flux Research Group](https://www.flux.utah.edu/) under Prof. Ricci.<br>
+In the summer of 2016, I interned with LinkedIn.
 Formerly, I was as an R&D Engineer at DreamWorks Animation ([IMDb](http://www.imdb.com/name/nm6593212/))
 and before that I was working with Zynga in their ZCloud Storage Research team on [zBase](https://zynga.com/blogs/engineering/zbase-high-performance-elastic-distributed-key-value-store-2).<br>
 I graduated from [Govt. Model Engineering College](http://www.mec.ac.in/) in 2012.
+
+# <a name="publications"></a> Publications
+
+## Workshops
+
+1. Aniraj Kesavan, Robert Ricci and Ryan Stutsman.
+   [To Copy or Not to Copy: Making In-Memory Databases Fast on Modern NICs](./papers/imdm-2016.pdf)
+   In *Proceedings of ADMS-IMDM 2016* co-located with VLDB 2016.
 
 # <a name="cv"></a> Resume
 
