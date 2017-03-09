@@ -20,11 +20,11 @@ University of Utah<br>
 [Publications](#publications) - 
 [Resume](#cv)
 
-*I defended my master's thesis on February 23rd, 2017. The [Thesis](https://github.com/anirajk/masters-thesis) and 
-[Code](https://github.com/anirajk/ibv-bench/tree/ddio) are available on github.*
+*I defended my thesis on February 23rd, 2017. The [thesis](https://github.com/anirajk/masters-thesis) and 
+[code](https://github.com/anirajk/ibv-bench/tree/ddio) are publicly available on github.*
 
 I am a Master's student at the School Of Computing, University Of Utah. My research interests are in data center storage and Distributed Systems and how modern NICs impact performance of scalable In-Memory Stores.
-I'm passionate about building storage systems that leverage newer network fabrics such as Infiniband/RDMA
+I'm passionate about building storage systems that leverage newer network fabrics such as Infiniband/RDMA.
 I interned with Linkedin in the summer of 2016 in their Mountain View Campus. I was working for the Monitoring Infrastructure team developing auto remediation solutions for their stack. I developed an out of band monitoring solution in python and some state driven automation using saltstack.
 
 
@@ -47,7 +47,7 @@ I graduated with a bachelor's degree from [Govt. Model Engineering College](http
 
 1. Aniraj Kesavan, Robert Ricci and Ryan Stutsman <br>
    [To Copy or Not to Copy: Making In-Memory Databases Fast on Modern NICs](https://www.flux.utah.edu/paper/kesavan-imdm2016)<br>
-   - In *[Proceedings of ADMS-IMDM 2016](http://www.adms-conf.org/)* co-located with VLDB 2016.
+   - In *[Proceedings of ADMS-IMDM 2016](http://www.adms-conf.org/2016/kesavan_adms16.pdf)* co-located with VLDB 2016, September 2016.
 
 # <a name="cv"></a> Resume
 
