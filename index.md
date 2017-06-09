@@ -7,8 +7,8 @@ title: Aniraj Kesavan
 <img src="{{ site.baseurl }}/public/aniraj-kesavan.jpeg" alt="Headshot" width="25%" style="float: left;"/>
 <div style="float: left; padding-left: 20px;">
 <span style="font-size: 150%;">Aniraj Kesavan</span><br>
-Graduate Student<br>
-University of Utah<br>
+Site Reliability Engineer<br>
+Linkedin<br>
 <a href="mailto:aniraj@cs.utah.edu">aniraj@cs.utah.edu</a>
 </div>
 </div>
