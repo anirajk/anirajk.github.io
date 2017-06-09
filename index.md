@@ -20,10 +20,12 @@ University of Utah<br>
 [Publications](#publications) - 
 [Resume](#cv)
 
+I returned to the Monitoring Infrastructure team at Linkedin as a full time employee as of June 2017.
+
 *I defended my thesis on February 23rd, 2017. The [thesis](https://github.com/anirajk/masters-thesis) and 
 [code](https://github.com/anirajk/ibv-bench/tree/ddio) are publicly available on github.*
 
-I am a Master's student at the School Of Computing, University Of Utah. My research interests are in data center storage and Distributed Systems and how modern NICs impact performance of scalable In-Memory Stores.
+I was a Master's student at the School Of Computing, University Of Utah. My research interests are in data center storage and Distributed Systems and how modern NICs impact performance of scalable In-Memory Stores.
 I'm passionate about building storage systems that leverage newer network fabrics such as Infiniband/RDMA.
 I interned with Linkedin in the summer of 2016 in their Mountain View Campus. I was working for the Monitoring Infrastructure team developing auto remediation solutions for their stack. I developed an out of band monitoring solution in python and some state driven automation using saltstack.
 
@@ -45,9 +47,15 @@ I graduated with a bachelor's degree from [Govt. Model Engineering College](http
 
 ## Workshops
 
-1. Aniraj Kesavan, Robert Ricci and Ryan Stutsman <br>
+1. **Aniraj Kesavan**, Robert Ricci and Ryan Stutsman <br>
    [To Copy or Not to Copy: Making In-Memory Databases Fast on Modern NICs](https://www.flux.utah.edu/paper/kesavan-imdm2016)<br>
    - In *[Proceedings of ADMS-IMDM 2016](http://www.adms-conf.org/2016/kesavan_adms16.pdf)* co-located with VLDB 2016, September 2016.
+
+## Invited Articles
+
+1. Chinmay Kulkarni, **Aniraj Kesavan**, Robert Ricci and Ryan Stutsman <br>
+   [Beyond Simple Request Processing with RAMCloud](http://sites.computer.org/debull/A17mar/issue1.htm)
+   - In Special Issue on Distributed Data Management and RDMA of *IEEE Computer Society Bulletin of the Technical Committee on Data Engineering*, March 2017. Vol 40 No.1
 
 # <a name="cv"></a> Resume
 
