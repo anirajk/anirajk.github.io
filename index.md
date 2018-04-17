@@ -20,13 +20,16 @@ Linkedin<br>
 [Publications](#publications) - 
 [Resume](#cv)
 
-I returned to the Monitoring Infrastructure team at Linkedin as a full time employee as of June 2017.
+I'm working as a Site Reliability Engineer with the Monitoring Infrastructure team at Linkedin. I develop tools and frameworks used for external monitoring and alerting and autoremediation actions as a part of the metrics pipeline that ingests more than a billion data points every minute.
+
+I'm highly passionate about infrastructure development at scale and would love to connect about ideas and opportunities.
+
 
 *I defended my thesis on February 23rd, 2017. The [thesis](https://github.com/anirajk/masters-thesis) and 
 [code](https://github.com/anirajk/ibv-bench/tree/ddio) are publicly available on github.*
 
 I was a Master's student at the School Of Computing, University Of Utah. My research interests are in data center storage and Distributed Systems and how modern NICs impact performance of scalable In-Memory Stores.
-I'm passionate about building storage systems that leverage newer network fabrics such as Infiniband/RDMA.
+I'm passionate about building storage systems that leverage newer network fabrics and technologies such as Infiniband/RDMA.
 I interned with Linkedin in the summer of 2016 in their Mountain View Campus. I was working for the Monitoring Infrastructure team developing auto remediation solutions for their stack. I developed an out of band monitoring solution in python and some state driven automation using saltstack.
 
 
@@ -36,7 +39,7 @@ such as [RAMCloud](http://ramcloud.stanford.edu/) and [Deuteronomy](https://www.
 - I have also worked with [Prof. Robert Ricci](http://www.flux.utah.edu/users/ricci/), who is credited with some of the best known network research test beds such as [APT](https://www.aptlab.net/), [Cloudlab](https://www.cloudlab.us) and [Emulab](http://emulab.net/).
 
 # <a name="workex"></a> Experience
-I am working as a Research Assistant under Prof. Stutsman with the Utah Scalable Computer Systems group.
+I was working as a Research Assistant under Prof. Stutsman with the Utah Scalable Computer Systems group.
 Earlier I was a Research Assistant in the [Flux Research Group](https://www.flux.utah.edu/) under Prof. Ricci.<br>
 In the summer of 2016, I interned with LinkedIn.
 Formerly, I was as an R&D Engineer at DreamWorks Animation ([IMDb](http://www.imdb.com/name/nm6593212/))
@@ -44,6 +47,12 @@ and before that I was working with Zynga in their ZCloud Storage Research team o
 I graduated with a bachelor's degree from [Govt. Model Engineering College](http://www.mec.ac.in/) in 2012.
 
 # <a name="publications"></a> Publications
+
+## Conferences
+
+1. Chinmay Kulkarni, **Aniraj Kesavan**, Tian Zhang, Robert Ricci, Ryan Stutsman
+   [Rocksteady: Fast Migration for Low-latency In-memory Storage](https://dl.acm.org/authorize?N47268)
+   - In *[Proceedings of The 26th ACM Symposium on Operating Systems Principles, October 28-31, 2017, Shanghai, China](https://www.sigops.org/sosp/sosp17/program.html)*
 
 ## Workshops
 
