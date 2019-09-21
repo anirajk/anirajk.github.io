@@ -7,9 +7,9 @@ title: Aniraj Kesavan
 <img src="{{ site.baseurl }}/public/aniraj-kesavan.jpeg" alt="Headshot" width="25%" style="float: left;"/>
 <div style="float: left; padding-left: 20px;">
 <span style="font-size: 150%;">Aniraj Kesavan</span><br>
-Site Reliability Engineer<br>
+Senior Engineer<br>
 Linkedin<br>
-<a href="mailto:aniraj@cs.utah.edu">aniraj@cs.utah.edu</a>
+<a href="mailto:anirajkesavan@gmail.com">anirajkesavan@gmail.com</a>
 </div>
 </div>
 
@@ -20,15 +20,23 @@ Linkedin<br>
 [Publications](#publications) - 
 [Resume](#cv)
 
-I'm working as a Site Reliability Engineer with the Monitoring Infrastructure team at Linkedin. I develop tools and frameworks used for external monitoring and alerting and autoremediation actions as a part of the metrics pipeline that ingests more than a billion data points every minute.
+I'm working as a Senior Engineer with the Monitoring Infrastructure team at Linkedin. I'm currently part of the core team that builds a massively distributed time series storage 
+solution for storing operational metrics at linkedin. I build and support the indexing layer that does fast lookups of billions of unique metrics (10s of billions of strings).
 
+We build custom solutions such as compressed bitmaps and sharded caches on top of well proven relational stores such as Postgres.
+
+Before this, I rewrote a monitoring server that speaks tcp and handles health check connections from hundreds of thousands of machines and writes these data points while generating event streams.
+
+ 
 I'm highly passionate about infrastructure development at scale and would love to connect about ideas and opportunities.
 
+
+Before rejoining Linkedin as a full time Engineer, I was a graduate student in University of Utah.
 
 *I defended my thesis on February 23rd, 2017. The [thesis](https://github.com/anirajk/masters-thesis) and 
 [code](https://github.com/anirajk/ibv-bench/tree/ddio) are publicly available on github.*
 
-I was a Master's student at the School Of Computing, University Of Utah. My research interests are in data center storage and Distributed Systems and how modern NICs impact performance of scalable In-Memory Stores.
+ My research interests are in data center storage and Distributed Systems and how modern NICs impact performance of scalable In-Memory Stores.
 I'm passionate about building storage systems that leverage newer network fabrics and technologies such as Infiniband/RDMA.
 I interned with Linkedin in the summer of 2016 in their Mountain View Campus. I was working for the Monitoring Infrastructure team developing auto remediation solutions for their stack. I developed an out of band monitoring solution in python and some state driven automation using saltstack.
 
