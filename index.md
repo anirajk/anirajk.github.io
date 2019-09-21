@@ -24,19 +24,18 @@ Distributed Systems Enthusiast.
 
 Building online monitoring solutions for the world's largest professional network.
 
+I'm highly passionate about infrastructure development at scale and would love to connect about ideas and opportunities.
+
 
 # <a name="workex"></a> Experience
 
 I'm working as a Senior Engineer with the Monitoring Infrastructure team at Linkedin. I'm currently part of the core team that builds a massively distributed time series storage 
 solution for storing operational metrics at linkedin. I build and support the indexing layer that does fast lookups of billions of unique metrics (10s of billions of strings).
-
 We build custom solutions such as compressed bitmaps and sharded caches on top of well proven relational stores such as Postgres.
 
-Before this, I rewrote a monitoring server that speaks tcp and handles health check connections from hundreds of thousands of machines and writes these data points while generating event streams.
+I also rewrote a monitoring server that speaks tcp and handles health check connections from hundreds of thousands of machines and writes these data points while generating event streams.
 
- 
-I'm highly passionate about infrastructure development at scale and would love to connect about ideas and opportunities.
-
+<br>
 
 Before rejoining Linkedin as a full time Engineer, I was a graduate student in University of Utah.
 
@@ -46,6 +45,8 @@ Before rejoining Linkedin as a full time Engineer, I was a graduate student in U
  My research interests are in data center storage and Distributed Systems and how modern NICs impact performance of scalable In-Memory Stores.
 I'm passionate about building storage systems that leverage newer network fabrics and technologies such as Infiniband/RDMA.
 I interned with Linkedin in the summer of 2016 in their Mountain View Campus. I was working for the Monitoring Infrastructure team developing auto remediation solutions for their stack. I developed an out of band monitoring solution in python and some state driven automation using saltstack.
+
+<br>
 
 I was working as a Research Assistant under Prof. Stutsman with the Utah Scalable Computer Systems group.
 Earlier I was a Research Assistant in the [Flux Research Group](https://www.flux.utah.edu/) under Prof. Ricci.<br>
