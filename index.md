@@ -16,7 +16,7 @@ Linkedin<br>
 <p></p>
 
 [Experience](#workex) -
-[Advisor](#advisors) -
+[Advisors](#advisors) -
 [Publications](#publications) - 
 [Resume](#cv)
 
