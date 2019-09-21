@@ -29,11 +29,16 @@ I'm highly passionate about infrastructure development at scale and would love t
 
 # <a name="workex"></a> Experience
 
-I'm working as a Senior Engineer with the Monitoring Infrastructure team at Linkedin. I'm currently part of the core team that builds a massively distributed time series storage 
-solution for storing operational metrics at linkedin. I build and support the indexing layer that does fast lookups of billions of unique metrics (10s of billions of strings).
+I'm working as a Senior Engineer with the Monitoring Infrastructure team at Linkedin. 
+
+<br>
+
+I'm currently part of the core team that builds a massively distributed time series storage solution for storing operational metrics that ingests 10s of  millions of data points every second. 
+<br>
+I build and support the indexing layer that does fast lookups of billions of unique metrics (10s of billions of strings).
 We build custom solutions such as compressed bitmaps and sharded caches on top of well proven relational stores such as Postgres.
 
-I also rewrote a monitoring server that speaks tcp and handles health check connections from hundreds of thousands of machines and writes these data points while generating event streams.
+While at Linkedin, also rewrote a monitoring server that speaks tcp and handles health check connections from hundreds of thousands of machines and writes these data points while generating event streams and developed features for a real time external monitoring system while making it scale to multiple data centers.
 
 <br>
 
