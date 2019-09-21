@@ -20,6 +20,13 @@ Linkedin<br>
 [Publications](#publications) - 
 [Resume](#cv)
 
+Distributed Systems Enthusiast.
+
+Building online monitoring solutions for the world's largest professional network.
+
+
+# <a name="workex"></a> Experience
+
 I'm working as a Senior Engineer with the Monitoring Infrastructure team at Linkedin. I'm currently part of the core team that builds a massively distributed time series storage 
 solution for storing operational metrics at linkedin. I build and support the indexing layer that does fast lookups of billions of unique metrics (10s of billions of strings).
 
@@ -40,19 +47,21 @@ Before rejoining Linkedin as a full time Engineer, I was a graduate student in U
 I'm passionate about building storage systems that leverage newer network fabrics and technologies such as Infiniband/RDMA.
 I interned with Linkedin in the summer of 2016 in their Mountain View Campus. I was working for the Monitoring Infrastructure team developing auto remediation solutions for their stack. I developed an out of band monitoring solution in python and some state driven automation using saltstack.
 
-
-# <a name="advisors"></a> Advisors
-- I was advised by [Prof. Ryan Stutsman](http://rstutsman.github.io/), who built phenomenal systems
-such as [RAMCloud](http://ramcloud.stanford.edu/) and [Deuteronomy](https://www.microsoft.com/en-us/research/publication/high-performance-transactions-in-deuteronomy/)
-- I have also worked with [Prof. Robert Ricci](http://www.flux.utah.edu/users/ricci/), who is credited with some of the best known network research test beds such as [APT](https://www.aptlab.net/), [Cloudlab](https://www.cloudlab.us) and [Emulab](http://emulab.net/).
-
-# <a name="workex"></a> Experience
 I was working as a Research Assistant under Prof. Stutsman with the Utah Scalable Computer Systems group.
 Earlier I was a Research Assistant in the [Flux Research Group](https://www.flux.utah.edu/) under Prof. Ricci.<br>
 In the summer of 2016, I interned with LinkedIn.
 Formerly, I was as an R&D Engineer at DreamWorks Animation ([IMDb](http://www.imdb.com/name/nm6593212/))
 and before that I was working with Zynga in their ZCloud Storage Research team on [zBase](https://zynga.com/blogs/engineering/zbase-high-performance-elastic-distributed-key-value-store-2).<br>
 I graduated with a bachelor's degree from [Govt. Model Engineering College](http://www.mec.ac.in/) in 2012.
+
+
+# <a name="advisors"></a> Advisors
+- I was advised by [Prof. Ryan Stutsman](http://rstutsman.github.io/), who built phenomenal systems
+such as [RAMCloud](http://ramcloud.stanford.edu/) and [Deuteronomy](https://www.microsoft.com/en-us/research/publication/high-performance-transactions-in-deuteronomy/)
+- I have also worked with [Prof. Robert Ricci](http://www.flux.utah.edu/users/ricci/), who is credited with some of the best known network research test beds such as [APT](https://www.aptlab.net/), [Cloudlab](https://www.cloudlab.us) and [Emulab](http://emulab.net/).
+
+
+
 
 # <a name="publications"></a> Publications
 
