@@ -29,7 +29,7 @@ I'm highly passionate about infrastructure development at scale and would love t
 
 # <a name="workex"></a> Experience
 
-I'm working as a Senior Engineer with the Monitoring Infrastructure team at Linkedin. 
+I'm working as a Senior Software Engineer with the Monitoring Platform & Experience team at Linkedin. 
 
 <br>
 
