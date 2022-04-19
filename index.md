@@ -7,8 +7,8 @@ title: Aniraj Kesavan
 <img src="{{ site.baseurl }}/public/aniraj-kesavan.jpeg" alt="Headshot" width="25%" style="float: left;"/>
 <div style="float: left; padding-left: 20px;">
 <span style="font-size: 150%;">Aniraj Kesavan</span><br>
-Senior Engineer<br>
-Linkedin<br>
+Lead Software Engineer<br>
+Salesforce<br>
 <a href="mailto:anirajkesavan@gmail.com">anirajkesavan@gmail.com</a>
 </div>
 </div>
@@ -22,24 +22,20 @@ Linkedin<br>
 
 Distributed Systems Enthusiast.
 
-Building online monitoring solutions for the world's largest professional network.
+Passionate about scaling stateful systems with proven expertise in scaling observability platforms.
 
 I'm highly passionate about infrastructure development at scale and would love to connect about ideas and opportunities.
 
 
 # <a name="workex"></a> Experience
 
-I'm working as a Senior Software Engineer with the Monitoring Platform & Experience team at Linkedin. 
-
+I'm working as Software Engineer, Lead Member of Technical Staff within the Argus team that powers Observability platform at Salesforce.
 <br>
-
-I'm currently part of the core team that builds a massively distributed time series storage solution for storing operational metrics that ingests 10s of  millions of data points every second. 
+Before that I was working as a Senior Software Engineer with the Monitoring Platform & Experience team at Linkedin. 
 <br>
-I build and support the indexing layer that does fast lookups of billions of unique metrics (10s of billions of strings).
-We build custom solutions such as compressed bitmaps and sharded caches on top of well proven relational stores such as Postgres and relatively newer sharded RDBMS solutions such as Vitess.
-
+I was part of the core team that builds a massively distributed time series storage solution for storing operational metrics that ingests 10s of  millions of data points every second. 
+I developed the indexing layer that does fast lookups of billions of unique metrics (10s of billions of strings).
 While at Linkedin, also rewrote a monitoring server that speaks tcp and handles health check connections from hundreds of thousands of machines and writes these data points while generating event streams and developed features for a real time external monitoring system while making it scale to multiple data centers.
-
 <br>
 
 Before rejoining Linkedin as a full time Engineer, I was a graduate student in University of Utah.
