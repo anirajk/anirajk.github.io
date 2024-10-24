@@ -29,7 +29,7 @@ I'm highly passionate about infrastructure development at scale and would love t
 
 # <a name="workex"></a> Experience
 
-I'm working as Software Engineer, Lead Member of Technical Staff within the Argus team that powers Observability platform at Salesforce.
+I'm working as Software Engineer, Lead Member of Technical Staff within the Argus team that powers alerting and monitoring at Salesforce.
 <br>
 Before that I was working as a Senior Software Engineer with the Monitoring Platform & Experience team at Linkedin. 
 <br>
