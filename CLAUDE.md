@@ -43,3 +43,13 @@ The Lanyon theme supports color themes via body class in `_layouts/default.html`
 ```
 
 Use `layout-reverse` class to flip sidebar to the right side.
+
+## Destructive Actions Protocol
+
+**IMPORTANT:** Before any destructive action (deleting code, removing files, major refactors), follow this workflow:
+
+1. **Stash work in progress** - `git stash` any uncommitted changes
+2. **Ensure last known good state is safe** - Verify the codebase is committed and pushed to remote
+3. **Apply and commit the stash** - `git stash pop` and commit the WIP changes
+4. **Apply the destructive changes** - Now proceed with deletions/removals
+5. **Request review** - Ask the user to review the changes before finalizing; run `bundle exec jekyll build` to verify the site still builds correctly
