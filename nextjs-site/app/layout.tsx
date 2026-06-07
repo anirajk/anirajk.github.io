@@ -20,6 +20,15 @@ export const metadata: Metadata = {
     "LinkedIn",
   ],
   authors: [{ name: siteConfig.name }],
+  icons: {
+    icon: [
+      { url: "/images/favicon-16.png", sizes: "16x16", type: "image/png" },
+      { url: "/images/favicon-32.png", sizes: "32x32", type: "image/png" },
+    ],
+    apple: [
+      { url: "/images/apple-touch-icon.png", sizes: "180x180", type: "image/png" },
+    ],
+  },
   openGraph: {
     type: "website",
     locale: "en_US",
@@ -27,12 +36,21 @@ export const metadata: Metadata = {
     siteName: siteConfig.name,
     title: siteConfig.name,
     description: siteConfig.description,
+    images: [
+      {
+        url: `${siteConfig.url}/images/og-image.jpeg`,
+        width: 800,
+        height: 800,
+        alt: siteConfig.name,
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: siteConfig.name,
     description: siteConfig.description,
     creator: "@anirajkesavan",
+    images: [`${siteConfig.url}/images/og-image.jpeg`],
   },
   robots: {
     index: true,
