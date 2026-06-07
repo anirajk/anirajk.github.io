@@ -4,7 +4,7 @@ export const siteConfig = {
   company: "Salesforce",
   email: "anirajkesavan@gmail.com",
   description:
-    "Distributed Systems Enthusiast. Passionate about scaling stateful systems with proven expertise in scaling observability platforms.",
+    "AI-Native Tech Leader. 10+ years building high-throughput infrastructure at Salesforce and LinkedIn — observability platforms, time-series databases, and scalable data pipelines operating at tens of millions of QPS.",
   url: "https://anirajk.github.io",
 };
 

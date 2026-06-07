@@ -32,13 +32,15 @@ export function Hero() {
 
       <div className="mt-8 prose prose-gray max-w-none">
         <p className="text-lg text-gray-700 leading-relaxed">
-          Distributed Systems Enthusiast.
+          AI-Native Tech Leader. Distributed Systems Enthusiast.
         </p>
         <p className="text-gray-600 leading-relaxed">
-          Passionate about scaling stateful systems with proven expertise in
-          scaling observability platforms. I&apos;m highly passionate about
-          infrastructure development at scale and would love to connect about
-          ideas and opportunities.
+          10+ years building high-throughput infrastructure at Salesforce and
+          LinkedIn &mdash; observability platforms, time-series databases, and
+          scalable data pipelines operating at tens of millions of QPS.
+          Increasingly focused on AI-native engineering: harness systems, model
+          telemetry pipelines, and agentic tooling for production workloads.
+          I&apos;d love to connect about ideas and opportunities.
         </p>
       </div>
     </section>
