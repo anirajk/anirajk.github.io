@@ -3,52 +3,50 @@ import { Experience } from "@/lib/types";
 export const experiences: Experience[] = [
   {
     company: "Salesforce",
-    title: "Lead Member of Technical Staff",
+    title: "Lead Member of Technical Staff · Tech Lead Manager",
+    period: "2022–Present",
     description: [
-      "Working within the Argus team that powers alerting and monitoring at Salesforce.",
+      "Built and scaled Argus, the planet-scale metrics and alerting platform powering observability across Salesforce; re-architected ingestion, improving availability from 99.9% to 99.99%.",
+      "Led storage tier migration from single-region to geo-distributed multi-region active-active architecture.",
+      "Operating as a tech lead manager, expanded from owning core ingestion components to directing engineering delivery across storage, autoscaling observability, and out-of-band monitoring-pipeline telemetry.",
+      "Owns delivery for a major release spanning hundreds of work items across roughly 20 engineers, while growing engineers toward independent ownership through mentorship.",
     ],
   },
   {
     company: "LinkedIn",
     title: "Senior Software Engineer",
+    period: "2017–2022",
     description: [
-      "Part of the core team that built a massively distributed time series storage solution for storing operational metrics that ingests 10s of millions of data points every second.",
-      "Developed the indexing layer that does fast lookups of billions of unique metrics (10s of billions of strings).",
-      "Rewrote a monitoring server that speaks TCP and handles health check connections from hundreds of thousands of machines while generating event streams.",
-      "Developed features for a real-time external monitoring system while making it scale to multiple data centers.",
+      "Led metadata storage for the monitoring platform — tens of billions of time-series identifiers at tens of millions of QPS.",
+      "Refactored metadata layer with Vitess and Roaring Bitmaps, significantly cutting storage overhead and query latency.",
+      "Contributed to LinkedIn's in-house distributed time-series database serving A/B testing and ML feature pipelines.",
+      "Built distributed health-check aggregation platform covering hundreds of thousands of servers.",
     ],
   },
   {
     company: "University of Utah",
     title: "Graduate Research Assistant",
+    period: "2015–2017",
     description: [
-      "Defended thesis on February 23rd, 2017. Research focused on data center storage and Distributed Systems, specifically how modern NICs impact performance of scalable In-Memory Stores.",
-      "Worked on building storage systems that leverage newer network fabrics and technologies such as Infiniband/RDMA.",
-      "Research Assistant under Prof. Ryan Stutsman with the Utah Scalable Computer Systems group.",
-      "Previously Research Assistant in the Flux Research Group under Prof. Robert Ricci.",
-    ],
-  },
-  {
-    company: "LinkedIn (Internship)",
-    title: "Software Engineering Intern",
-    period: "Summer 2016",
-    description: [
-      "Worked for the Monitoring Infrastructure team developing auto remediation solutions.",
-      "Developed an out-of-band monitoring solution in Python and state-driven automation using SaltStack.",
+      "Published researcher on high-performance data transfers for in-memory databases.",
+      "Explored scatter-gather DMA on modern NICs for RAMCloud; work published at SOSP '17, VLDB '16, and IEEE Data Engineering Bulletin.",
     ],
   },
   {
     company: "DreamWorks Animation",
-    title: "R&D Engineer",
+    title: "R&D Engineer, Production Pipeline",
+    period: "2014–2015",
     description: [
-      "Worked on render farm and studio infrastructure systems.",
+      "Built graph-based production pipeline tooling for animated feature films.",
+      "Credited R&D Engineer on three Hollywood productions.",
     ],
   },
   {
     company: "Zynga",
-    title: "Storage Research Engineer",
+    title: "Associate Software Engineer",
+    period: "2012–2013",
     description: [
-      "Worked in the ZCloud Storage Research team on zBase, a high-performance elastic distributed key-value store.",
+      "Developed zBase, Zynga's internal high-performance distributed key-value store.",
     ],
   },
 ];
