@@ -24,5 +24,8 @@
     "tailwind-merge": "^3.4.0",
     "tailwindcss": "^4.1.18",
     "typescript": "^5.9.3"
+  },
+  "overrides": {
+    "postcss-selector-parser": "^6.1.5"
   }
 }
